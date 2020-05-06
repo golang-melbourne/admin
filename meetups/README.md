@@ -13,7 +13,9 @@ Slides](https://docs.google.com/presentation/d/e/2PACX-1vR7TkrRr92YnDQKX0H3wmfZ4
 
 ### Mocks in Golang - Different approaches to mocking
 
-🗣 Tinh Truong and Armond Ave
+🗣 Tinh Truong 
+
+🗣 [Armond Ave](https://github.com/davecroman)
 
 📔 [Google
 Slides](https://docs.google.com/presentation/d/1y3KUTpawsQamLXzCa-bWW9n_7sVVzN_756wdiDd5Mfc/edit#slide=id.g5f8e722a62_0_839)
