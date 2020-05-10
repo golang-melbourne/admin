@@ -1,5 +1,17 @@
 # Meetups
 
+## 3 March 2020
+
+### The great wonderful world of the Sysl specification language
+
+🗣 [Joshua Carpegiani](https://github.com/joshcarp/)
+
+🗣 [Marcelo Cantos](https://github.com/marcelocantos)
+
+📔 [Slides](https://joshcarp.com/sysl-presentation/#/)
+
+💬 [Meetup](https://www.meetup.com/golang-mel/events/zknlprybcfbfb/)
+
 ## 7 April 2020
 
 ### Using Docker for Go Development
@@ -17,6 +29,4 @@ Slides](https://docs.google.com/presentation/d/e/2PACX-1vR7TkrRr92YnDQKX0H3wmfZ4
 
 🗣 [Armond Ave](https://github.com/davecroman)
 
-📔 [Google
-Slides](https://docs.google.com/presentation/d/1y3KUTpawsQamLXzCa-bWW9n_7sVVzN_756wdiDd5Mfc/edit#slide=id.g5f8e722a62_0_839)
-
+📔 [Google Slides](https://docs.google.com/presentation/d/1y3KUTpawsQamLXzCa-bWW9n_7sVVzN_756wdiDd5Mfc/edit#slide=id.g5f8e722a62_0_839)
